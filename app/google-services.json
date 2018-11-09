@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "329514847703",
+    "firebase_url": "https://belajar-2e0cf.firebaseio.com",
+    "project_id": "belajar-2e0cf",
+    "storage_bucket": "belajar-2e0cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329514847703:android:b387692ba7037bd5",
+        "android_client_info": {
+          "package_name": "me.rhon.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329514847703-mvc5lmpu7r5t9roorioqeqpopf5a8v7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbCXa3IHVADLJ_pQ38boKhz3pj5pH7jo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
